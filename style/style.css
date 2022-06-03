@@ -1,0 +1,152 @@
+@import "reset.css";
+
+* {
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #00A49B;
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding: 15px;
+}
+
+footer {
+    background-color: #00A49B;
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding: 15px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0px 0px 20px;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: lighter;
+    margin-left: 20px;
+    font-style: italic;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+table {
+    margin: 20px;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+#een {
+    background-color: #FFB7B7;
+    width: 200px;
+}
+
+#een span {
+    background-color: #D79C9C;
+}
+
+#twee {
+    background-color: #FFD4B7;
+}
+
+#drie {
+    background-color: #FFEEB7;
+    width: 200px;
+}
+
+#drie span {
+    background-color: #D2C498;
+}
+
+#vier {
+    background-color: #DBFFB7;
+}
+
+#vijf {
+    background-color: #B7FFC4;
+}
+
+#vijf span {
+    background-color: #96D4A1;
+}
+
+#zes {
+    background-color: #B7FFED;
+}
+
+#zeven {
+    background-color: #B7F6FF;
+}
+
+
+#zeven span {
+    background-color: #8FC0C7;
+}
+
+#acht {
+    background-color: #B7E0FF;
+}
+
+#negen {
+    background-color: #B7C4FF;
+}
+
+#negen span {
+    background-color: #8D98C8;
+}
+
+#tien {
+    background-color: #CFB7FF;
+}
+
+#elf {
+    background-color: #ECB7FF;
+}
+
+#elf span {
+    background-color: #B68FC5;
+}
+
+#twaalf {
+    background-color: #FFB7FC;
+}
+
+#dertien {
+    background-color: #FFB7DA;
+}
+
+#dertien span {
+    background-color: #D097B3;
+}
+
+#veertien {
+    background-color: #CACACA;
+}
+
+#vijftien {
+    background-color: #EEEEEE;
+}
+
+#vijftien span {
+    background-color: #BDBDBD;
+}
+
+#zestien {
+    background-color: #FFFFFF;
+}
